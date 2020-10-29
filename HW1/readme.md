@@ -12,7 +12,7 @@ Description :  Use complex numbers as parameters to fit animal that can move. I 
 
 [<img src="https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/blob/main/HW1/happyhippo.png" width="888">]
 
-![Alt Text](https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/blob/main/HW1/happyhippo.png)
+![Alt Text](https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/issues/1#issue-732396495)
 
 Keywords : 
 - Complex analysis
