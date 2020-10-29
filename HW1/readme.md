@@ -12,7 +12,7 @@ Description :  Use complex numbers as parameters to fit animal that can move. I 
 
 [<img src="https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/blob/main/HW1/happyhippo.png" width="888">]
 
-![Alt Text](https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/issues/1#issue-732396495)
+![Alt Text](https://user-images.githubusercontent.com/67493611/97592086-3d5f9900-1a3b-11eb-948b-fd176c134de6.png)
 ![happyhippo](https://user-images.githubusercontent.com/67493611/97592086-3d5f9900-1a3b-11eb-948b-fd176c134de6.png)
 
 
