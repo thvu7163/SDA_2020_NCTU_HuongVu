@@ -10,8 +10,7 @@ Published in :  SDAI_2020_NCTU
 
 Description :  Use complex numbers as parameters to fit animal that can move. I choose to draw a Happy Hippo that can move his nose and output the results as .mp4 file.
 
-![alt text](https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/blob/main/HW1/happyhippo.png?raw=true)
-
+[<img src="https://github.com/thvu7163/SDA_2020_NCTU_HuongVu/blob/main/HW1/happyhippo.png" width="888">]
 Keywords : 
 - Complex analysis
 - Fourier Transform
