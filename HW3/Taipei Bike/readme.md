@@ -9,6 +9,7 @@ Name of Quantlet : SDA_2020_NCTU_HW1_drawing_animal
 Published in :  SDA_2020_NCTU
 
 Description :  Extract open data on Taipei bike information and provide a simple scatter plot
+
 Keywords : 
 - webcrawling
 - open data
