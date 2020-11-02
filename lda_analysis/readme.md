@@ -19,6 +19,7 @@ Author : Huong Vu 0856156
 
 ```
 ### Results
+```yaml
 Suitable topics by observing the heatmap: 
   1. Risk modelling 
   2. Models to evaluate target customer response 
@@ -26,7 +27,6 @@ Suitable topics by observing the heatmap:
   4. Research on market risk
   5. Models to analyze the cryptocurrencies
   6. Modelling process and methods
-
 ```
 
 ```
