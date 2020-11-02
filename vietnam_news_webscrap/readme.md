@@ -7,7 +7,7 @@
 Name of Quantlet : SDA_2020_NCTU_Vietnam.net web-scraping
 Published in :  SDA_2020_NCTU
 
-Description :  Running web-scraping on a very popular Vietnam news channel vietnam.net (only focus on Finance section of the page) and provide the wordcloud of the headlines
+Description :  Running simple web-scraping on a very popular Vietnam news channel vietnam.net (only focus on Finance section of the page) and provide the wordcloud of the headlines
 
 Keywords : 
 - Web-scaping
