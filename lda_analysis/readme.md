@@ -19,4 +19,6 @@ Author : Huong Vu 0856156
 
 
 ```
-![heatmap_abstract](https://user-images.githubusercontent.com/67493611/97881710-b3c30a80-1d5d-11eb-846d-01e0d0747a05.png)
+![heatmap](https://user-images.githubusercontent.com/67493611/97882133-32b84300-1d5e-11eb-9d0a-438c79aa3cba.png)
+
+![keywords_by_topic](https://user-images.githubusercontent.com/67493611/97882242-5bd8d380-1d5e-11eb-9bc2-5218b00c6ee0.png)
