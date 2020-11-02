@@ -18,3 +18,12 @@ Keywords :
 
 
 Author : Huong Vu 0856156
+
+```
+### Result
+```yaml
+- By just observing the wordcloud on the headlines we can see the significant influence of the US economy on the Vietnamese market
+
+
+```
+![Vietnam News Webscap](https://user-images.githubusercontent.com/67493611/97884490-19fd5c80-1d61-11eb-8aea-78b313bf8306.png)
