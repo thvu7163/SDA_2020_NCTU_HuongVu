@@ -4,7 +4,7 @@
 
 ```yaml
 
-Name of Quantlet : SDA_2020_NCTU_vietnam_news_webcrap
+Name of Quantlet : vietnam_news_webscrap
 Published in :  SDA_2020_NCTU
 
 Description :  
