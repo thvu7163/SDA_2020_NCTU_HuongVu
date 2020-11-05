@@ -11,7 +11,6 @@ Published in :  SDA_2020_NCTU
 Description :  
 - Calculate the probability that data points will lie outside the outlier identification when our data follows normal distribution.
 
-
 Keywords : 
 - Upper cutoff point
 - Outlier 
