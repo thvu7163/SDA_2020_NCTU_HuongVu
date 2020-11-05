@@ -4,11 +4,8 @@
 
 ```yaml
 
-<<<<<<< Updated upstream
-Name of Quantlet : vietnam_news_webscrap
-=======
 Name of Quantlet : vietnam_news_webscap
->>>>>>> Stashed changes
+
 Published in :  SDA_2020_NCTU
 
 Description :  
